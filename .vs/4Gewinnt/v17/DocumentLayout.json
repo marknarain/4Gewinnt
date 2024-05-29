@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\__Coding_Projects\\4Gewinnt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94352FE6-1FC6-42DD-B38D-28A42B3B9C5A}|4Gewinnt\\4Gewinnt.vcxproj|D:\\__Coding_Projects\\4Gewinnt\\4Gewinnt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94352FE6-1FC6-42DD-B38D-28A42B3B9C5A}|4Gewinnt\\4Gewinnt.vcxproj|solutionrelative:4Gewinnt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\__Coding_Projects\\4Gewinnt\\4Gewinnt\\main.cpp",
+              "RelativeDocumentMoniker": "4Gewinnt\\main.cpp",
+              "ToolTip": "D:\\__Coding_Projects\\4Gewinnt\\4Gewinnt\\main.cpp",
+              "RelativeToolTip": "4Gewinnt\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAN4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T06:04:12.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
